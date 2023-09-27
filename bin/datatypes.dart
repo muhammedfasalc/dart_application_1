@@ -2,7 +2,7 @@ void main() {
   String name = 'anu';
   int age = 21;
   int phone = 9061188464;
-  double mark = 8.2;
+  double cgpa = 8.2;
   String email = 'muhammedfasal32@gmail.com';
 
   print('my name is $name');
